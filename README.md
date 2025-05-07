@@ -1,12 +1,24 @@
 # 🎵 Audio Wave Loading Animation
 
-A simple and visually appealing audio wave loading animation built with HTML and CSS. This project mimics the bouncing waveforms commonly seen in audio players and streaming platforms, offering a dynamic visual cue while content is loading.
+A sleek and visually appealing **audio wave loading animation** built with pure **HTML and CSS**. This project replicates the dynamic waveforms seen in audio players and streaming platforms, providing an eye-catching visual indicator for loading states.
 
+---
+
+## ✨ Features
+
+- 🌐 **Responsive Design** – Scales seamlessly for any screen size.
+- 🎶 **Smooth Animation** – Realistic wave-like motion.
+- 💡 **Lightweight** – No JavaScript or external libraries required.
+- 🎨 **Easy Customization** – Adjust colors, speed, and height with CSS.
+
+---
 
 ## 🛠️ Built With
 
-- **HTML5** – For the page structure
-- **CSS3** – For the animation styling and effects
+- **HTML5** – For the semantic structure.
+- **CSS3** – For the animation styling and effects.
+
+---
 
 ## 📁 Project Structure
 
